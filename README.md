@@ -3,7 +3,7 @@ Domain: Algorithms/Implentation
 Language: Java
 
 **************************************************************************************************************************************
-Instructions for problem are hard to read since some of the text would copy and paste over.  See the website link in the description for a more complete problem description
+Instructions for this problem are hard to read since some of the special characters and given values would not copy and paste over.  See the website link in the description for a better description
 **************************************************************************************************************************************
 
 
